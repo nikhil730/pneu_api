@@ -3,5 +3,4 @@ uvicorn
 tensorflow
 numpy
 keras
-json
 PIL
