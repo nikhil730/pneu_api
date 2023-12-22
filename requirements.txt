@@ -4,3 +4,4 @@ tensorflow
 numpy
 keras
 Pillow
+python-multipart
