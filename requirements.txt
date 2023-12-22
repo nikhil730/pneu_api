@@ -3,4 +3,4 @@ uvicorn
 tensorflow
 numpy
 keras
-PIL
+Pillow
